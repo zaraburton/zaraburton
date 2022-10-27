@@ -1,4 +1,4 @@
-- Hi, I’m Zara Burton
+- Hi, I’m Zara
 - :gear: I’m an Engineer specialising in the design and prototyping of automated systems - mechanical and control
 - My current thoughts focus a lot around best practices:
     1. :link: I'm currently learning the best practice for programming industrial control systems
